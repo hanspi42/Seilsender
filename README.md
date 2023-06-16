@@ -1,3 +1,7 @@
+# About this fork
+
+This repository is a fork of Lars Bachmann's original repository. Lars has finished his studies at FHNW, and any changes to the open-hardware documentation will be done here.
+
 # Introduction
 Have you ever listened to the gentle sound of a cable car rope? These ropes react to wind, thermal forces, earth movements, birds and human activity, acting as resonating bodies that show almost fascinating, often complex and long-lasting progressions.
 
