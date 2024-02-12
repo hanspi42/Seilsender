@@ -383,7 +383,7 @@ The microphone input of the USB sound card from the basic configuration is not v
   `git clone https://github.com/iqaudio/Pi-Codec.git`  
   <img src="media\ScrCodecZeroGitClone.png" alt="ScrCodecZeroGitClone" style="width:400px;" />
 - Load the configuration file, replace the number at the end of the command with the card number identified with arecord above  
-  `sudo alsactl restore -f Pi-Codec/IQaudIO_Codec_StereoMIC_record_and_HP_playback.state 2`  
+  `sudo alsactl restore -f Pi-Codec/Codec_Zero_StereoMIC_record_and_HP_playback.state 2`  
   <img src="media\ScrCodecZeroAlsactlRestore.png" alt="ScrCodecZeroAlsactlRestore" style="width:700px;" />
 - Start AlsaMixer to configure the audio levels  
   `alsamixer`
